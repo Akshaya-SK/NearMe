@@ -67,7 +67,8 @@ Execute the programs and publish them.
 ## OUTPUT
 
 #### map.html
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/82f090b1-e0dd-420a-aa64-07a6cdd25490)
+
 
 
 
